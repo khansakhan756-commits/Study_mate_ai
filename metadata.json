@@ -1,0 +1,6 @@
+{
+  "name": "StudyMate AI",
+  "description": "AI-powered learning and exam preparation platform for BISE Sindh Grade 9 and 10 matriculation students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
